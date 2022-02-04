@@ -6,7 +6,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qvant)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![codewars](https://www.codewars.com/users/qvant/badges/large)](https://www.codewars.com/users/qvant86)   
+[![codewars](https://www.codewars.com/users/qvant86/badges/large)](https://www.codewars.com/users/qvant86)   
 
 
 
